@@ -5,4 +5,6 @@
 
 Snapchat and Instagram like Face Filters.
 
-It is based on the following project: https://github.com/googlesamples/android-vision/tree/master/visionSamples/FaceTracker
+It is based on the following project:
+
+https://github.com/googlesamples/android-vision/tree/master/visionSamples/FaceTracker
